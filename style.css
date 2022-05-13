@@ -1,0 +1,6 @@
+.bg-personal {
+	background-image: url(https://coffe-test-project.netlify.app/img/banner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
